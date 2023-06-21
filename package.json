@@ -1,0 +1,22 @@
+{
+  "name": "hello_world_node",
+  "version": "1.0.0",
+  "description": "Hello World - Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammeza10/Node.js.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammeza10/Node.js/issues"
+  },
+  "homepage": "https://github.com/sammeza10/Node.js#readme"
+}
